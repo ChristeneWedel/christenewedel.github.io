@@ -4,6 +4,10 @@
       <li>
       <a href="https://51swag.me" target="_blank">https://51swag.me</a>
       </li>
+      <li>
+      <a href="https://1769kan.com" target="_blank">https://1769kan.com</a>
+      </li>
+      
       <li class="text">请使用https://协议访问</li>
     </ul>
   </div>
