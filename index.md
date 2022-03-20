@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ChristeneWedel/dizhifabu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristeneWedel/dizhifabu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div id="main">
+  <div class="field "><h4 class="title">最新地址</h4>
+    <ul>
+      <li>
+      <a href="https://51swag.me" target="_blank">https://51swag.me</a>
+      </li>
+      <li class="text">请使用https://协议访问</li>
+    </ul>
+  </div>
+  
+  <div class="field ">
+  <h4 class="title">请收藏地址发布页</h4>
+    <ul>
+      <li>
+        <a href="https://dizhifabu.github.io" target="_blank">https://dizhifabu.github.io</a>
+      </li>
+    </ul>
+  </div>
+  
+  <div class="field">
+    <h4 class="title">发送邮件获得最新地址</h4>
+    <ul><li>tomdyx4@gmail.com</li></ul>
+  </div>
+  
+  <div class="field ">
+    <h4 class="title">永久地址</h4>
+    <ul>
+      <li><a href="https://dizhifabu.github.io" target="_blank">https://dizhifabu.github.io</a></li>
+    </ul>
+  </div>
+  
+  <div class="field desc"><h4 class="title">注意事项</h4><ul><li>* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。</li><li>* 大陆地区用户我们建议您可以使用VPN或者代理的方式来访问我们的永久地址。</li><li>* 大陆地区用户我们强烈建议您截图收藏当前页面(dizhifabu.github.io)。</li></ul></div></div>
