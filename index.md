@@ -2,10 +2,10 @@
   <div class="field "><h4 class="title">最新地址</h4>
     <ul>
       <li>
-      <a href="https://51swag.me" target="_blank">https://51swag.me</a>
+      <a href="https://51swag.me" target="_blank">swag视频破解，探花系列https://51swag.me</a>
       </li>
       <li>
-      <a href="https://1769kan.com" target="_blank">https://1769kan.com</a>
+      <a href="https://1769kan.com" target="_blank">swag视频破解，探花系列https://1769kan.com</a>
       </li>
       
       <li class="text">请使用https://协议访问</li>
@@ -16,7 +16,7 @@
   <h4 class="title">请收藏地址发布页</h4>
     <ul>
       <li>
-        <a href="https://dizhifabu.github.io" target="_blank">https://dizhifabu.github.io</a>
+        <a href="https://christenewedel.github.io" target="_blank">https://christenewedel.github.io</a>
       </li>
     </ul>
   </div>
